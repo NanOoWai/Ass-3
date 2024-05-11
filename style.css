@@ -1,0 +1,96 @@
+.container{
+    background-color: white;
+}
+
+
+.product{
+    display: flex;
+    justify-content: space-around;
+ 
+    
+}
+
+h2,h6{
+    text-align: center;
+    align-items: center;
+}
+
+p{
+    text-indent: 20px;
+    text-align: center;
+    color: rgb(122, 148, 170);
+}
+.buy{
+    color: white;
+    background-color: blue;
+    text-align: center;
+    align-content: center;
+    height: 70px;
+    border-radius: 0px 0px 10px 10px;
+}
+
+.buy1{
+    color: white;
+    background-color: rgb(255, 123, 0);
+    text-align: center;
+    align-content: center;
+    height: 70px;
+    border-radius: 0px 0px 10px 10px;
+}
+
+.buy2{
+    color: white;
+    background-color: rgb(255, 0, 212);
+    text-align: center;
+    align-content: center;
+    height: 70px;
+    border-radius: 0px 0px 10px 10px;
+}
+
+.buy3{
+    color: white;
+    background-color: rgb(34, 167, 56);
+    text-align: center;
+    align-content: center;
+    height: 70px;
+    border-radius: 0px 0px 10px 10px;
+}
+
+.shoe{
+   
+    width: 200px;
+    margin: 50px 40px 50px 40px;
+    border-radius: 10px;  
+    border-style: inset;
+}
+
+.earphone{
+   
+    width: 200px;
+    margin: 50px 40px 50px 40px;
+    border-radius: 10px;  
+    border-style: inset;
+}
+
+.clock{
+   
+    width: 200px;
+    margin: 50px 40px 50px 40px;
+    border-radius: 10px;  
+    border-style: inset;
+}
+
+
+.mobile{
+   
+    width: 200px;
+    margin: 50px 40px 50px 40px;
+    border-radius: 10px;  
+    border-style: inset;
+}
+img{
+
+    width: 200px;
+    height: 150px;
+    border-radius: 10px 10px 0px 0px;
+}
